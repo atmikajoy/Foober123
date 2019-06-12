@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "783519424717",
+    "firebase_url": "https://foober-4728a.firebaseio.com",
+    "project_id": "foober-4728a",
+    "storage_bucket": "foober-4728a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783519424717:android:db490f7c570a69d7",
+        "android_client_info": {
+          "package_name": "me.marclittle.todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783519424717-steu5neuqbnihdr8sia6h403kr5ve8f1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR5e4u0wuzFmEnTq06HzFFdmSIYSQlM10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783519424717-steu5neuqbnihdr8sia6h403kr5ve8f1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
